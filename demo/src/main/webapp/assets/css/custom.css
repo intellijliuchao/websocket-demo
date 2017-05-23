@@ -1,0 +1,25 @@
+/**
+ *
+ * Apply your custom CSS here
+ *
+*/
+
+body {	
+}
+
+a {
+}
+
+.form-group .form-control + .control-label {
+    display: none !important;
+}
+.form-group.has-error .form-control + .control-label {
+    display: block !important;
+}
+
+.thumb-img {
+	width: 100%; 
+}
+.sidebar-menu {
+	width:260px;
+}
